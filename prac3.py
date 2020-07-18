@@ -7,3 +7,5 @@ cv2.imshow("saturation", img_HSV[:,:,1])
 cv2.imshow("Value channel",img_HSV[:, :, 2])
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+#tell the hue ,sathuration, value

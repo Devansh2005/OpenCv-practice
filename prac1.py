@@ -15,3 +15,4 @@ print("Layer pixel values:", img.shape[2])
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
+#Exercise 1
